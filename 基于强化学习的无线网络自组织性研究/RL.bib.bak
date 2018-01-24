@@ -1,0 +1,23 @@
+% Encoding: UTF-8
+
+@Article{Kaelbling1996,
+  author        = {Kaelbling, Leslie Pack and Littman, Michael L and Moore, Andrew W},
+  title         = {Reinforcement learning: A survey},
+  journal       = {Journal of artificial intelligence research},
+  year          = {1996},
+  volume        = {4},
+  pages         = {237--285},
+  __markedentry = {[Administrator:6]},
+}
+
+@Book{Sutton1998,
+  title         = {Reinforcement learning: An introduction},
+  publisher     = {MIT press Cambridge},
+  year          = {1998},
+  author        = {Sutton, Richard S and Barto, Andrew G},
+  volume        = {1},
+  number        = {1},
+  __markedentry = {[Administrator:]},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

@@ -1,0 +1,130 @@
+% Encoding: UTF-8
+
+@Article{Kaelbling1996,
+  author        = {Kaelbling, Leslie Pack and Littman, Michael L and Moore, Andrew W},
+  title         = {Reinforcement learning: A survey},
+  journal       = {Journal of artificial intelligence research},
+  year          = {1996},
+  volume        = {4},
+  pages         = {237--285},
+  __markedentry = {[Administrator:6]},
+}
+
+@Book{Sutton1998,
+  title         = {Reinforcement learning: An introduction},
+  publisher     = {MIT press Cambridge},
+  year          = {1998},
+  author        = {Sutton, Richard S and Barto, Andrew G},
+  volume        = {1},
+  number        = {1},
+  __markedentry = {[Administrator:]},
+}
+
+@Book{Sutton2016,
+  title     = {{R}einforcement learning: {A}n introduction second edition},
+  publisher = {The MIT Press},
+  year      = {2016},
+  author    = {Sutton, Richard S and Barto, Andrew G},
+  address   = {Massachusetts,US},
+  month     = {Sep},
+}
+
+@Article{Lai1985,
+  author  = {Lai, T. L and Robbins, Herbert},
+  title   = {Asymptotically efficient adaptive allocation rules},
+  journal = {Advances in Applied Mathematics},
+  year    = {1985},
+  volume  = {6},
+  number  = {1},
+  pages   = {4-22},
+}
+
+@Article{Bubeck2012,
+  author  = {Bubeck, Sébastien and Cesabianchi, Nicolò},
+  title   = {Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems},
+  journal = {Foundations \& Trends in Machine Learning},
+  year    = {2012},
+  volume  = {5},
+  number  = {1},
+}
+
+@Article{Auer2002,
+  author  = {Auer, Peter and Cesa-Bianchi, Nicolò and Freund, Yoav and Schapire, Robert E},
+  title   = {The Non-Stochastic Multi-Armed Bandit Problem},
+  journal = {Siam Journal on Computing},
+  year    = {2002},
+  volume  = {32},
+  number  = {1},
+  pages   = {48-77},
+}
+
+@InProceedings{Vakili2015,
+  author    = {Vakili, S and Zhao, Qing and Zhou, Yuan},
+  title     = {Time-varying stochastic multi-armed bandit problems},
+  booktitle = {Signals, Systems and Computers, 2014 Asilomar Conference on},
+  year      = {2015},
+  pages     = {2103-2107},
+}
+
+@Article{Hartland2006,
+  author  = {Hartland, Cédric and Gelly, Sylvain and Baskiotis, Nicolas and Teytaud, Olivier and Sebag, Michèle},
+  title   = {Multi-Armed Bandit, Dynamic Environments and Meta-Bandits},
+  journal = {Online Trading of Exploration \& Exploitation Workshop Nips},
+  year    = {2006},
+}
+
+@Article{Garivier2008,
+  author  = {Garivier, Aurélien and Moulines, Eric},
+  title   = {On Upper-Confidence Bound Policies for Non-Stationary Bandit Problems},
+  journal = {Mathematics},
+  year    = {2008},
+  pages   = {174-188},
+}
+
+@Article{Auer2002a,
+  author  = {Auer, Peter and Cesa-Bianchi, Nicolò and Fischer, Paul},
+  title   = {Finite-time Analysis of the Multiarmed Bandit Problem},
+  journal = {Machine Learning},
+  year    = {2002},
+  volume  = {47},
+  number  = {2},
+  pages   = {235-256},
+}
+
+@Article{Agrawal1988,
+  author    = {Agrawal, Rajeev and Hedge, MV and Teneketzis, Demosthenis},
+  title     = {Asymptotically efficient adaptive allocation rules for the multiarmed bandit problem with switching cost},
+  journal   = {IEEE Transactions on Automatic Control},
+  year      = {1988},
+  volume    = {33},
+  number    = {10},
+  pages     = {899--906},
+  publisher = {IEEE},
+}
+
+@InProceedings{Simsek2015,
+  author    = {Simsek, M. and Bennis, M. and Guvenc, I.},
+  title     = {Context-aware mobility management in {HetNets}: A reinforcement learning approach},
+  booktitle = {IEEE Wireless Communications and Networking Conference (WCNC)},
+  year      = {2015},
+  pages     = {1536-1541},
+  month     = {March},
+}
+
+@Article{Arora2012,
+  author  = {Arora, Raman and Dekel, Ofer and Tewari, Ambuj},
+  title   = {Online Bandit Learning against an Adaptive Adversary: from Regret to Policy Regret},
+  journal = {Computer Science},
+  year    = {2012},
+  volume  = {2},
+}
+
+@Article{Szepesvari2013,
+  author  = {Szepesvari, Csaba},
+  title   = {Online learning under delayed feedback},
+  journal = {Computer Science},
+  year    = {2013},
+  pages   = {1453-1461},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
