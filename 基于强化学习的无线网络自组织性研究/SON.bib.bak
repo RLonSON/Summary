@@ -588,11 +588,10 @@
 }
 
 @Article{Alliance2008,
-  author        = {Alliance, NGMN and others},
-  title         = {NGMN recommendation on SON and O\&M requirements},
-  journal       = {Next Generation Mobile Networks, White paper, December},
-  year          = {2008},
-  __markedentry = {[Administrator:]},
+  author  = {Alliance, NGMN and others},
+  title   = {NGMN recommendation on SON and O\&M requirements},
+  journal = {Next Generation Mobile Networks, White paper, December},
+  year    = {2008},
 }
 
 @TechReport{3gpp.36.839,
@@ -638,8 +637,18 @@
   year          = {2010},
   volume        = {48},
   number        = {2},
-  __markedentry = {[Administrator:6]},
+  __markedentry = {[Administrator:]},
   publisher     = {IEEE},
+}
+
+@InProceedings{Chen2015,
+  author        = {Chen, David and Schuler, Joseph and Wainio, Pekka and Salmelin, Juha},
+  title         = {5G self-optimizing wireless mesh backhaul},
+  booktitle     = {Computer Communications Workshops (INFOCOM WKSHPS), 2015 IEEE Conference on},
+  year          = {2015},
+  pages         = {23--24},
+  organization  = {IEEE},
+  __markedentry = {[Administrator:6]},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

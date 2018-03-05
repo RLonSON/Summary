@@ -651,4 +651,35 @@
   __markedentry = {[Administrator:6]},
 }
 
+@InProceedings{Jaber2015,
+  author        = {Jaber, Mona and Imran, Muhammad and Tafazolli, Rahim and Tukmanov, Anvar},
+  title         = {An adaptive backhaul-aware cell range extension approach},
+  booktitle     = {Communication Workshop (ICCW), 2015 IEEE International Conference on},
+  year          = {2015},
+  pages         = {74--79},
+  organization  = {IEEE},
+  __markedentry = {[Administrator:6]},
+}
+
+@Article{Jaber2016a,
+  author        = {Jaber, Mona and Imran, Muhammad Ali and Tafazolli, Rahim and Tukmanov, Anvar},
+  title         = {A distributed SON-based user-centric backhaul provisioning scheme},
+  journal       = {IEEE Access},
+  year          = {2016},
+  volume        = {4},
+  pages         = {2314--2330},
+  __markedentry = {[Administrator:6]},
+  publisher     = {IEEE},
+}
+
+@InProceedings{Jaber2016c,
+  author        = {Jaber, Mona and Imran, Muhammad Ali and Tafazolli, Rahim and Tukmanov, Anvar},
+  title         = {A multiple attribute user-centric backhaul provisioning scheme using distributed son},
+  booktitle     = {Global Communications Conference (GLOBECOM), 2016 IEEE},
+  year          = {2016},
+  pages         = {1--6},
+  organization  = {IEEE},
+  __markedentry = {[Administrator:6]},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
