@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.23)  24 JAN 2018 11:55
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.23)  5 MAR 2018 09:41
 entering extended mode
 **基于强化学习的无线网络自组织性研究.tex
-(F:\05科大学报\基于机器学习的无线网络自组织性研究\基于�
-�化学习的无线网络自组织性研究.tex
+(F:\05科大学报\Summary\基于强化学习的无线网络自组织性研究\
+基于强化学习的无线网络自组织性研究.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
 ("E:\Program Files\CTEX\MiKTeX\tex\latex\ieeetran\IEEEtran.cls"
@@ -659,8 +659,8 @@ LaTeX Info: Redefining \ttfamily on input line 903.
 \CTEX@r=\count180
 )) ("E:\Program Files\CTEX\MiKTeX\tex\latex\ctex\def\ctex-utf8.def")
 ("E:\Program Files\CTEX\MiKTeX\tex\latex\ctex\cfg\ctex.cfg")
-(F:\05科大学报\基于机器学习的无线网络自组织性研究\基于�
-�化学习的无线网络自组织性研究.aux)
+(F:\05科大学报\Summary\基于强化学习的无线网络自组织性研究\
+基于强化学习的无线网络自组织性研究.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
@@ -925,27 +925,24 @@ Underfull \vbox (badness 2269) has occurred while \output is active []
 
 
 ]
-[2] (F:\05科大学报\基于机器学习的无线网络自组织性研究\基�
-��强化学习的无线网络自组织性研究.bbl) [3
+[2] (F:\05科大学报\Summary\基于强化学习的无线网络自组织性研
+究\基于强化学习的无线网络自组织性研究.bbl [3]) [4
 
 ]
-(F:\05科大学报\基于机器学习的无线网络自组织性研究\基于�
-�化学习的无线网络自组织性研究.aux)
+(F:\05科大学报\Summary\基于强化学习的无线网络自组织性研究\
+基于强化学习的无线网络自组织性研究.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 15294 strings out of 430478
- 325480 string characters out of 3191151
- 340612 words of memory out of 3000000
- 18240 multiletter control sequences out of 15000+200000
+ 15309 strings out of 430478
+ 325765 string characters out of 3191151
+ 346665 words of memory out of 3000000
+ 18255 multiletter control sequences out of 15000+200000
  25126 words of font info for 106 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  57i,6n,37p,845b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on 基于强化学习的无线网络自组织性研究.pdf (3 pa
+Output written on 基于强化学习的无线网络自组织性研究.pdf (4 pa
 ges).
