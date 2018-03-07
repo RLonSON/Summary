@@ -57,6 +57,64 @@ H.~Hu, J.~Zhang, X.~Zheng, Y.~Yang, and P.~Wu, ``Self-configuration and
   self-optimization for lte networks,'' \emph{IEEE Communications Magazine},
   vol.~48, no.~2, 2010.
 
+\bibitem{Imran2013a}
+A.~Imran, E.~Yaacoub, Z.~Dawy, and A.~Abu-Dayya, ``Planning future cellular
+  networks: A generic framework for performance quantification,'' in
+  \emph{Wireless Conference (EW), Proceedings of the 2013 19th European}.\hskip
+  1em plus 0.5em minus 0.4em\relax VDE, 2013, pp. 1--7.
+
+\bibitem{Peng2013}
+M.~Peng, D.~Liang, Y.~Wei, J.~Li, and H.-H. Chen, ``Self-configuration and
+  self-optimization in lte-advanced heterogeneous networks,'' \emph{IEEE
+  Communications Magazine}, vol.~51, no.~5, pp. 36--45, 2013.
+
+\bibitem{3gpp.32.511}
+3rd Generation Partnership~Project, ``Telecommunication management automatic
+  neighbour relation (anr) management concepts and requirements,'' 3GPP, Tech.
+  Rep. 32.511, 2017.
+
+\bibitem{Lee2014}
+C.-L. Lee, W.-S. Su, K.-A. Tang, and W.-I. Chao, ``Design of handover
+  self-optimization using big data analytics,'' in \emph{Network operations and
+  management symposium (APNOMS), 2014 16th Asia-Pacific}.\hskip 1em plus 0.5em
+  minus 0.4em\relax IEEE, 2014, pp. 1--5.
+
+\bibitem{Kim2010}
+D.~Kim, B.~Shin, D.~Hong, and J.~Lim, ``Self-configuration of neighbor cell
+  list utilizing e-utran nodeb scanning in lte systems,'' in \emph{Consumer
+  communications and networking conference (CCNC), 2010 7th IEEE}.\hskip 1em
+  plus 0.5em minus 0.4em\relax IEEE, 2010, pp. 1--5.
+
+\bibitem{Li2007}
+J.~Li and R.~Jantti, ``On the study of self-configuration neighbour cell list
+  for mobile wimax,'' in \emph{Next Generation Mobile Applications, Services
+  and Technologies, 2007. NGMAST'07. The 2007 International Conference
+  on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2007, pp. 199--204.
+
+\bibitem{Sanneck2010}
+H.~Sanneck, Y.~Bouwen, and E.~Troch, ``Context based configuration management
+  of plug \& play lte base stations,'' in \emph{Network Operations and
+  Management Symposium (NOMS), 2010 IEEE}.\hskip 1em plus 0.5em minus
+  0.4em\relax IEEE, 2010, pp. 946--949.
+
+\bibitem{Razavi2010}
+R.~Razavi, S.~Klein, and H.~Claussen, ``A fuzzy reinforcement learning approach
+  for self-optimization of coverage in lte networks,'' \emph{Bell Labs
+  Technical Journal}, vol.~15, no.~3, pp. 153--175, 2010.
+
+\bibitem{Razavi2010a}
+------, ``Self-optimization of capacity and coverage in lte networks using a
+  fuzzy reinforcement learning approach,'' in \emph{Personal Indoor and Mobile
+  Radio Communications (PIMRC), 2010 IEEE 21st International Symposium
+  on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2010, pp. 1865--1870.
+
+\bibitem{Islam2012}
+M.~N. ul~Islam and A.~Mitschele-Thiel, ``Cooperative fuzzy q-learning for
+  self-organized coverage and capacity optimization,'' in \emph{Personal Indoor
+  and Mobile Radio Communications (PIMRC), 2012 IEEE 23rd International
+  Symposium on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2012, pp.
+  1406--1411.
+
 \bibitem{3gpp.36.902}
 3rd Generation Partnership~Project, ``{LTE; evolved universal terrestrial radio
   access network (E-UTRAN); self-configuring and self-optimizing network (SON)

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.23)  5 MAR 2018 22:59
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.23)  7 MAR 2018 22:28
 entering extended mode
 **基于强化学习的无线网络自组织性研究.tex
 (F:\05科大学报\Summary\基于强化学习的无线网络自组织性研究\
@@ -25,33 +25,23 @@ Requested font "ptmr7t" at 10.0pt
 -- Using 8.5in x 11in (letter) paper.
 -- Using DVI output.
 \@IEEEnormalsizeunitybaselineskip=\dimen104
--- This is a 10 point document.
+-- This is an 11 point document.
+Requested font "ptmr7t" at 11.0pt
+ -> ptmr7t
 \CLASSINFOnormalsizebaselineskip=\dimen105
 \CLASSINFOnormalsizeunitybaselineskip=\dimen106
 \IEEEnormaljot=\dimen107
-Requested font "ptmr7t" at 5.0pt
+Requested font "ptmr7t" at 6.0pt
  -> ptmr7t
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
-Requested font "ptmb7t" at 5.0pt
+Requested font "ptmb7t" at 6.0pt
  -> ptmb7t
-Requested font "ptmri7t" at 5.0pt
+Requested font "ptmri7t" at 6.0pt
  -> ptmri7t
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
-Requested font "ptmbi7t" at 5.0pt
- -> ptmbi7t
-Requested font "ptmr7t" at 7.0pt
- -> ptmr7t
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
-Requested font "ptmb7t" at 7.0pt
- -> ptmb7t
-Requested font "ptmri7t" at 7.0pt
- -> ptmri7t
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
-Requested font "ptmbi7t" at 7.0pt
+Requested font "ptmbi7t" at 6.0pt
  -> ptmbi7t
 Requested font "ptmr7t" at 8.0pt
  -> ptmr7t
@@ -87,8 +77,6 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
 Requested font "ptmbi7t" at 10.0pt
  -> ptmbi7t
-Requested font "ptmr7t" at 11.0pt
- -> ptmr7t
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
 Requested font "ptmb7t" at 11.0pt
@@ -684,22 +672,15 @@ LaTeX Font Info:    Try loading font information for T3+cmr on input line 5.
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 5.
-Requested font "[lmroman5-regular]:mapping=tex-text" at 5.0pt
- -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman5-regular.otf
-Requested font "[lmroman5-bold]:mapping=tex-text" at 5.0pt
- -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman5-bold.otf
-Requested font "[lmroman7-italic]:mapping=tex-text" at 5.0pt
+Requested font "[lmroman12-regular]:mapping=tex-text" at 11.0pt
+ -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman12-regular.otf
+Requested font "[lmroman6-regular]:mapping=tex-text" at 6.0pt
+ -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman6-regular.otf
+Requested font "[lmroman6-bold]:mapping=tex-text" at 6.0pt
+ -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman6-bold.otf
+Requested font "[lmroman7-italic]:mapping=tex-text" at 6.0pt
  -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman7-italic.otf
-Requested font "[lmroman10-bolditalic]:mapping=tex-text" at 5.0pt
- -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-bolditalic.
-otf
-Requested font "[lmroman7-regular]:mapping=tex-text" at 7.0pt
- -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman7-regular.otf
-Requested font "[lmroman7-bold]:mapping=tex-text" at 7.0pt
- -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman7-bold.otf
-Requested font "[lmroman7-italic]:mapping=tex-text" at 7.0pt
- -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman7-italic.otf
-Requested font "[lmroman10-bolditalic]:mapping=tex-text" at 7.0pt
+Requested font "[lmroman10-bolditalic]:mapping=tex-text" at 6.0pt
  -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-bolditalic.
 otf
 Requested font "[lmroman8-regular]:mapping=tex-text" at 8.0pt
@@ -723,8 +704,6 @@ otf
 Requested font "[lmroman10-bolditalic]:mapping=tex-text" at 10.0pt
  -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-bolditalic.
 otf
-Requested font "[lmroman12-regular]:mapping=tex-text" at 11.0pt
- -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman12-regular.otf
 Requested font "[lmroman12-bold]:mapping=tex-text" at 11.0pt
  -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman12-bold.otf
 Requested font "[lmroman12-italic]:mapping=tex-text" at 11.0pt
@@ -870,15 +849,12 @@ pt
 
 LaTeX Warning: No \author given.
 
-
-LaTeX Warning: No \author given.
-
-Requested font "[lmromancaps10-regular]:mapping=tex-text" at 10.0pt
+Requested font "[lmromancaps10-regular]:mapping=tex-text" at 11.0pt
  -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmromancaps10-regular
 .otf
-Requested font "SimSun" at 10.0pt
+Requested font "SimSun" at 11.0pt
  -> C:/Windows/Fonts/simsun.ttc
-Requested font "SimSun/ICU" at 10.0pt
+Requested font "SimSun/ICU" at 11.0pt
  -> C:/Windows/Fonts/simsun.ttc
 .................................................
 . fontspec info: "defining-font"
@@ -892,7 +868,7 @@ Requested font "SimSun/ICU" at 10.0pt
 LaTeX Font Warning: Font shape `EU1/SimSun(0)/m/sc' undefined
 (Font)              using `EU1/SimSun(0)/m/n' instead on input line 15.
 
-Requested font "SimSun/ICU:script=latn;language=DFLT;mapping=tex-text;" at 10.0
+Requested font "SimSun/ICU:script=latn;language=DFLT;mapping=tex-text;" at 11.0
 pt
  -> C:/Windows/Fonts/simsun.ttc
 .................................................
@@ -912,37 +888,57 @@ pt
 . This font family consists of the following shapes:
 .................................................
 Requested font "[SIMKAI.TTF]/ICU:script=latn;language=DFLT;mapping=tex-text;" a
-t 10.0pt
+t 11.0pt
  -> C:/WINDOWS/Fonts/SIMKAI.TTF
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 40.
+Requested font "[lmroman8-regular]:mapping=tex-text" at 7.69997pt
+ -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman8-regular.otf
+Requested font "[lmroman6-regular]:mapping=tex-text" at 5.5pt
+ -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman6-regular.otf
+Requested font "cmmi10" at 11.0pt
+ -> cmmi10
+Requested font "cmmi7" at 7.69997pt
+ -> cmmi7
+Requested font "cmmi5" at 5.5pt
+ -> cmmi5
+Requested font "cmsy10" at 11.0pt
+ -> cmsy10
+Requested font "cmsy7" at 7.69997pt
+ -> cmsy7
+Requested font "cmsy5" at 5.5pt
+ -> cmsy5
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 43.
+(Font)              <11> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 43.
-
-Underfull \vbox (badness 2269) has occurred while \output is active []
-
- [1
-
-
-]
-[2] (F:\05科大学报\Summary\基于强化学习的无线网络自组织性研
-究\基于强化学习的无线网络自组织性研究.bbl [3]) [4
-
-]
+(Font)              <7.69997> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.5> on input line 40.
+Requested font "cmr10" at 11.0pt
+ -> cmr10
+Requested font "cmr7" at 7.69997pt
+ -> cmr7
+Requested font "cmr5" at 5.5pt
+ -> cmr5
+[1] [2] [3] [4] [5] [6]
+(F:\05科大学报\Summary\基于强化学习的无线网络自组织性研究\
+基于强化学习的无线网络自组织性研究.bbl [7]) [8]
 (F:\05科大学报\Summary\基于强化学习的无线网络自组织性研究\
 基于强化学习的无线网络自组织性研究.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 15311 strings out of 430478
- 325787 string characters out of 3191151
- 346673 words of memory out of 3000000
- 18257 multiletter control sequences out of 15000+200000
- 25126 words of font info for 106 fonts, out of 3000000 for 9000
+ 15333 strings out of 430478
+ 326095 string characters out of 3191151
+ 335950 words of memory out of 3000000
+ 18283 multiletter control sequences out of 15000+200000
+ 25724 words of font info for 109 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 57i,6n,37p,845b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,6n,36p,845b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on 基于强化学习的无线网络自组织性研究.pdf (4 pa
+Output written on 基于强化学习的无线网络自组织性研究.pdf (8 pa
 ges).
