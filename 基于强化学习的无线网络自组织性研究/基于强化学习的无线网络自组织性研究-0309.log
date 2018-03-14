@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.23)  14 MAR 2018 21:31
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.23)  14 MAR 2018 19:09
 entering extended mode
-**基于强化学习的无线网络自组织性研究.tex
+**基于强化学习的无线网络自组织性研究-0309.tex
 (F:\05科大学报\Summary\基于强化学习的无线网络自组织性研究\
-基于强化学习的无线网络自组织性研究.tex
+基于强化学习的无线网络自组织性研究-0309.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
 ("E:\Program Files\CTEX\MiKTeX\tex\latex\ieeetran\IEEEtran.cls"
@@ -648,7 +648,7 @@ LaTeX Info: Redefining \ttfamily on input line 903.
 )) ("E:\Program Files\CTEX\MiKTeX\tex\latex\ctex\def\ctex-utf8.def")
 ("E:\Program Files\CTEX\MiKTeX\tex\latex\ctex\cfg\ctex.cfg")
 (F:\05科大学报\Summary\基于强化学习的无线网络自组织性研究\
-基于强化学习的无线网络自组织性研究.aux)
+基于强化学习的无线网络自组织性研究-0309.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
@@ -890,24 +890,16 @@ pt
 Requested font "[SIMKAI.TTF]/ICU:script=latn;language=DFLT;mapping=tex-text;" a
 t 11.0pt
  -> C:/WINDOWS/Fonts/SIMKAI.TTF
-File: reinforcement.pdf Graphic file (type QTm)
-<use  "reinforcement.pdf" >
-Requested font "SimSun" at 9.0pt
- -> C:/Windows/Fonts/simsun.ttc
-Requested font "SimSun/ICU" at 9.0pt
- -> C:/Windows/Fonts/simsun.ttc
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'SimSun(0)' created for font 'SimSun' with options
-. [Ligatures=TeX,BoldFont={SimHei},ItalicFont={[SIMKAI.TTF]}].
-. 
-. This font family consists of the following shapes:
-.................................................
-Requested font "SimSun/ICU:script=latn;language=DFLT;mapping=tex-text;" at 9.0p
-t
- -> C:/Windows/Fonts/simsun.ttc
- [1]
+
+LaTeX Warning: Citation `Alliance2008' on page 1 undefined on input line 24.
+
+
+LaTeX Warning: Reference `fig:rein' on page 1 undefined on input line 38.
+
+
+LaTeX Warning: Reference `sec:RL' on page 1 undefined on input line 38.
+
+[1]
 LaTeX Font Info:    Calculating math sizes for size <11> on input line 46.
 Requested font "[lmroman8-regular]:mapping=tex-text" at 7.69997pt
  -> E:/Program Files/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman8-regular.otf
@@ -937,27 +929,161 @@ Requested font "cmr7" at 7.69997pt
  -> cmr7
 Requested font "cmr5" at 5.5pt
  -> cmr5
- [2] [3] [4] [5] [6] [7] [8] [9] [10] [11]
-[12] (F:\05科大学报\Summary\基于强化学习的无线网络自组织性�
-�究\基于强化学习的无线网络自组织性研究.bbl [13]
-Missing character: There is no � in font [lmroman9-regular]:mapping=tex-text!
- [14]
-Missing character: There is no � in font [lmroman9-regular]:mapping=tex-text!
- [15]
-[16]) [17] (F:\05科大学报\Summary\基于强化学习的无线网络自组�
-�性研究\基于强化学习的无线网络自组织性研究.aux)
+
+
+LaTeX Warning: Reference `sec:RL' on page 2 undefined on input line 54.
+
+
+LaTeX Warning: Reference `sec:SON' on page 2 undefined on input line 54.
+
+
+LaTeX Warning: Reference `sec:Compare' on page 2 undefined on input line 54.
+
+
+LaTeX Warning: Reference `sec:Conclusion' on page 2 undefined on input line 54.
+
+
+
+LaTeX Warning: Citation `Sutton1998' on page 2 undefined on input line 74.
+
+[2]
+
+LaTeX Warning: Citation `Wang2017' on page 3 undefined on input line 98.
+
+
+LaTeX Warning: Citation `Shen2017' on page 3 undefined on input line 98.
+
+
+LaTeX Warning: Citation `Simsek2015a' on page 3 undefined on input line 98.
+
+
+LaTeX Warning: Citation `Maghsudi2017' on page 3 undefined on input line 102.
+
+
+LaTeX Warning: Citation `Shen2016' on page 3 undefined on input line 102.
+
+
+LaTeX Warning: Citation `Simsek2015a' on page 3 undefined on input line 105.
+
+
+LaTeX Warning: Citation `Sun2017' on page 3 undefined on input line 108.
+
+
+LaTeX Warning: Citation `Tekin2011' on page 3 undefined on input line 108.
+
+[3]
+
+LaTeX Warning: Citation `Simsek2015' on page 4 undefined on input line 120.
+
+
+LaTeX Warning: Citation `Ghadimi2017' on page 4 undefined on input line 120.
+
+
+LaTeX Warning: Citation `Munoz2013' on page 4 undefined on input line 124.
+
+
+LaTeX Warning: Citation `Klaine2017' on page 4 undefined on input line 132.
+
+
+LaTeX Warning: Citation `Aliu2013' on page 4 undefined on input line 144.
+
+
+LaTeX Warning: Citation `Wainio2016' on page 4 undefined on input line 144.
+
+
+LaTeX Warning: Citation `Hu2010' on page 4 undefined on input line 144.
+
+[4]
+
+LaTeX Warning: Citation `Imran2013a' on page 5 undefined on input line 152.
+
+
+LaTeX Warning: Citation `Hu2010' on page 5 undefined on input line 154.
+
+
+LaTeX Warning: Citation `Wainio2016' on page 5 undefined on input line 156.
+
+
+LaTeX Warning: Citation `Hu2010' on page 5 undefined on input line 156.
+
+
+LaTeX Warning: Citation `Peng2013' on page 5 undefined on input line 156.
+
+
+LaTeX Warning: Citation `3gpp.32.511' on page 5 undefined on input line 162.
+
+[5]
+
+LaTeX Warning: Citation `Lee2014' on page 6 undefined on input line 164.
+
+
+LaTeX Warning: Citation `Kim2010' on page 6 undefined on input line 164.
+
+
+LaTeX Warning: Citation `Wainio2016' on page 6 undefined on input line 164.
+
+
+LaTeX Warning: Citation `Li2007' on page 6 undefined on input line 166.
+
+
+LaTeX Warning: Citation `Sanneck2010' on page 6 undefined on input line 172.
+
+
+LaTeX Warning: Citation `Razavi2010' on page 6 undefined on input line 174.
+
+
+LaTeX Warning: Citation `Razavi2010a' on page 6 undefined on input line 176.
+
+
+LaTeX Warning: Citation `Islam2012' on page 6 undefined on input line 176.
+
+
+LaTeX Warning: Citation `Aliu2013' on page 6 undefined on input line 183.
+
+[6]
+
+LaTeX Warning: Citation `3gpp.36.902' on page 7 undefined on input line 185.
+
+
+LaTeX Warning: Citation `Wainio2016' on page 7 undefined on input line 192.
+
+
+LaTeX Warning: Citation `Chen2015' on page 7 undefined on input line 192.
+
+
+LaTeX Warning: Citation `Jaber2015' on page 7 undefined on input line 192.
+
+
+LaTeX Warning: Citation `Jaber2016a' on page 7 undefined on input line 192.
+
+
+LaTeX Warning: Citation `Jaber2016c' on page 7 undefined on input line 192.
+
+[7]
+
+LaTeX Warning: Citation `Klaine2017' on page 8 undefined on input line 223.
+
+No file 基于强化学习的无线网络自组织性研究-0309.bbl.
+[8] (F:\05科大学报\Summary\基于强化学习的无线网络自组织性研
+究\基于强化学习的无线网络自组织性研究-0309.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 15386 strings out of 430478
- 326780 string characters out of 3191151
- 338104 words of memory out of 3000000
- 18331 multiletter control sequences out of 15000+200000
- 25748 words of font info for 112 fonts, out of 3000000 for 9000
+ 15332 strings out of 430478
+ 326030 string characters out of 3191151
+ 337806 words of memory out of 3000000
+ 18284 multiletter control sequences out of 15000+200000
+ 25724 words of font info for 109 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 57i,7n,36p,845b,339s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,6n,36p,850b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on 基于强化学习的无线网络自组织性研究.pdf (17 p
-ages).
+Output written on 基于强化学习的无线网络自组织性研究-0309.pdf 
+(8 pages).

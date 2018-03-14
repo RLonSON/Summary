@@ -31,10 +31,124 @@ R.~S. Sutton and A.~G. Barto, \emph{Reinforcement learning: An
   introduction}.\hskip 1em plus 0.5em minus 0.4em\relax MIT press Cambridge,
   1998, vol.~1, no.~1.
 
-\bibitem{Kaelbling1996}
-L.~P. Kaelbling, M.~L. Littman, and A.~W. Moore, ``Reinforcement learning: A
-  survey,'' \emph{Journal of artificial intelligence research}, vol.~4, pp.
-  237--285, 1996.
+\bibitem{Zhang2017}
+X.~Zhang, M.~R. Nakhai, and W.~N. S. F.~W. Ariffin, ``{Adaptive Energy Storage
+  Management in Green Wireless Networks},'' \emph{IEEE SIGNAL PROCESSING
+  LETTERS}, vol.~24, no.~7, pp. 1044--1048, July 2017.
+
+\bibitem{Maghsudi2017}
+S.~Maghsudi and E.~Hossain, ``{Distributed User Association in Energy
+  Harvesting Small Cell Networks: A Probabilistic Bandit Model},'' vol.~16,
+  no.~3, pp. 1549--1563, Mar. 2017.
+
+\bibitem{Wang2017}
+Z.~Wang and C.~Shen, ``Small cell transmit power assignment based on correlated
+  bandit learning,'' \emph{IEEE Journal on Selected Areas in Communications},
+  vol.~35, no.~5, pp. 1030--1045, 2017.
+
+\bibitem{Sutton2016}
+R.~S. Sutton and A.~G. Barto, \emph{{R}einforcement learning: {A}n introduction
+  second edition}.\hskip 1em plus 0.5em minus 0.4em\relax Massachusetts,US: The
+  MIT Press, Sep 2016.
+
+\bibitem{Auer2002a}
+P.~Auer, N.~Cesa-Bianchi, and P.~Fischer, ``Finite-time analysis of the
+  multiarmed bandit problem,'' \emph{Machine Learning}, vol.~47, no.~2, pp.
+  235--256, 2002.
+
+\bibitem{Agrawal2012}
+S.~Agrawal and N.~Goyal, ``Analysis of thompson sampling for the multi-armed
+  bandit problem,'' in \emph{Proceedings of the 25th Annual Conference on
+  Learning Theory}, vol.~23.\hskip 1em plus 0.5em minus 0.4em\relax PMLR, 2012,
+  pp. 39.1--39.26.
+
+\bibitem{Kaufmann2012}
+E.~Kaufmann, N.~Korda, and R.~Munos, ``Thompson sampling: An asymptotically
+  optimal finite-time analysis,'' in \emph{Algorithmic Learning Theory}.\hskip
+  1em plus 0.5em minus 0.4em\relax Springer Berlin Heidelberg, 2012, pp.
+  199--213.
+
+\bibitem{Kaufmann2012a}
+E.~Kaufmann, O.~Cappe, and A.~Garivier, ``On bayesian upper confidence bounds
+  for bandit problems,'' in \emph{Proceedings of the Fifteenth International
+  Conference on Artificial Intelligence and Statistics}, vol.~22.\hskip 1em
+  plus 0.5em minus 0.4em\relax PMLR, 2012, pp. 592--600.
+
+\bibitem{Shen2017}
+C.~Shen and M.~van~der Schaar, ``A learning approach to frequent handover
+  mitigations in 3gpp mobility protocols,'' in \emph{Wireless Communications
+  and Networking Conference (WCNC), 2017 IEEE}.\hskip 1em plus 0.5em minus
+  0.4em\relax IEEE, 2017, pp. 1--6.
+
+\bibitem{Simsek2015a}
+M.~Simsek, M.~Bennis, and I.~Guvenc, ``Context-aware mobility management in
+  {HetNets}: A reinforcement learning approach,'' in \emph{IEEE WCNC}, Mar.
+  2015, p. 1536�C1541.
+
+\bibitem{Auer2002}
+P.~Auer, N.~Cesa-Bianchi, Y.~Freund, and R.~E. Schapire, ``The non-stochastic
+  multi-armed bandit problem,'' \emph{Siam Journal on Computing}, vol.~32,
+  no.~1, pp. 48--77, 2002.
+
+\bibitem{Shen2016}
+C.~Shen, C.~Tekin, and M.~van~der Schaar, ``A non-stochastic learning approach
+  to energy efficient mobility management,'' \emph{IEEE Journal on Selected
+  Areas in Communications}, vol.~34, no.~12, pp. 3854--3868, 2016.
+
+\bibitem{Sun2017}
+Y.~Sun, G.~Feng, S.~Qin, S.~Sun, and L.~Zhang1, ``User behavior aware cell
+  association in heterogeneous cellular networks,'' in \emph{IEEE WCNC}, May
+  2017.
+
+\bibitem{Tekin2011}
+C.~Tekin and M.~Liu, ``Online learning in opportunistic spectrum access: A
+  restless bandit approach,'' in \emph{IEEE INFOCOM}, 2011, pp. 2462--2470.
+
+\bibitem{Simsek2015}
+M.~Simsek, M.~Bennis, and \.{I}smail G\"{u}ven\c{c}, ``{Learning Based
+  Frequency- and Time-Domain Inter-Cell Interference Coordination in
+  HetNets},'' vol.~64, pp. 4589 -- 4602, Oct. 2015.
+
+\bibitem{Ghadimi2017}
+E.~Ghadimi, F.~D. Calabrese, G.~Peters, and P.~Soldati, ``A reinforcement
+  learning approach to power control and rate adaptation in cellular
+  networks,'' in \emph{IEEE ICC}, Jul. 2017.
+
+\bibitem{Dhahri2012}
+\BIBentryALTinterwordspacing
+S.~Dhahri, A.~Sellami, and F.~B. Hmida, ``Robust h ∞ sliding mode observer
+  design for fault estimation in a class of uncertain nonlinear systems with
+  lmi optimization approach,'' \emph{International Journal of Control,
+  Automation and Systems}, vol.~10, no.~5, pp. 1032--1041, Oct 2012. [Online].
+  Available: \url{https://doi.org/10.1007/s12555-012-0521-3}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Glorennec1997}
+P.~Y. Glorennec and L.~Jouffe, ``Fuzzy q-learning,'' in \emph{Proceedings of
+  6th International Fuzzy Systems Conference}, vol.~2, Jul 1997, pp. 659--662.
+
+\bibitem{Munoz2013}
+P.~M. {n}oz, R.~Barco, J.~M. Ruiz-Avil\'{e}s, I.~de~la Bandera, and A.~Aguilar,
+  ``{Fuzzy rule-based reinforcement learning for load balancing techniques in
+  enterprise LTE femtocells},'' vol.~62, no.~5, p. 962�C1973, Jun. 2013.
+
+\bibitem{Razavi2010}
+R.~Razavi, S.~Klein, and H.~Claussen, ``A fuzzy reinforcement learning approach
+  for self-optimization of coverage in lte networks,'' \emph{Bell Labs
+  Technical Journal}, vol.~15, no.~3, pp. 153--175, 2010.
+
+\bibitem{Fan2014}
+S.~Fan, H.~Tian, and C.~Sengul, ``Self-optimization of coverage and capacity
+  based on a fuzzy neural network with cooperative reinforcement learning,''
+  \emph{EURASIP Journal on Wireless Communications and Networking}, vol. 2014,
+  no.~1, p.~57, 2014.
+
+\bibitem{Dirani2010}
+M.~Dirani and Z.~Altman, ``A cooperative reinforcement learning approach for
+  inter-cell interference coordination in ofdma cellular networks,'' in
+  \emph{Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks
+  (WiOpt), 2010 Proceedings of the 8th International Symposium on}.\hskip 1em
+  plus 0.5em minus 0.4em\relax IEEE, 2010, pp. 170--176.
 
 \bibitem{Klaine2017}
 P.~V. Klaine, M.~A. Imran, O.~Onireti, and R.~D. Souza, ``A survey of machine
@@ -97,16 +211,12 @@ H.~Sanneck, Y.~Bouwen, and E.~Troch, ``Context based configuration management
   Management Symposium (NOMS), 2010 IEEE}.\hskip 1em plus 0.5em minus
   0.4em\relax IEEE, 2010, pp. 946--949.
 
-\bibitem{Razavi2010}
-R.~Razavi, S.~Klein, and H.~Claussen, ``A fuzzy reinforcement learning approach
-  for self-optimization of coverage in lte networks,'' \emph{Bell Labs
-  Technical Journal}, vol.~15, no.~3, pp. 153--175, 2010.
-
 \bibitem{Razavi2010a}
-------, ``Self-optimization of capacity and coverage in lte networks using a
-  fuzzy reinforcement learning approach,'' in \emph{Personal Indoor and Mobile
-  Radio Communications (PIMRC), 2010 IEEE 21st International Symposium
-  on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2010, pp. 1865--1870.
+R.~Razavi, S.~Klein, and H.~Claussen, ``Self-optimization of capacity and
+  coverage in lte networks using a fuzzy reinforcement learning approach,'' in
+  \emph{Personal Indoor and Mobile Radio Communications (PIMRC), 2010 IEEE 21st
+  International Symposium on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE,
+  2010, pp. 1865--1870.
 
 \bibitem{Islam2012}
 M.~N. ul~Islam and A.~Mitschele-Thiel, ``Cooperative fuzzy q-learning for
@@ -153,11 +263,6 @@ M.~S. ElBamby, M.~Bennis, W.~Saad, and M.~Latva-Aho, ``Content-aware user
   Communications Systems (ISWCS), 2014 11th International Symposium on}.\hskip
   1em plus 0.5em minus 0.4em\relax IEEE, 2014, pp. 945--949.
 
-\bibitem{Wang2017}
-Z.~Wang and C.~Shen, ``Small cell transmit power assignment based on correlated
-  bandit learning,'' \emph{IEEE Journal on Selected Areas in Communications},
-  vol.~35, no.~5, pp. 1030--1045, 2017.
-
 \bibitem{Shen2018}
 C.~Shen, R.~Zhou, C.~Tekin, and M.~van~der Schaar, ``Generalized global bandit
   and its application in cellular coverage optimization,'' \emph{IEEE Journal
@@ -168,13 +273,6 @@ M.~Bennis and D.~Niyato, ``A q-learning based approach to interference
   avoidance in self-organized femtocell networks,'' in \emph{GLOBECOM Workshops
   (GC Wkshps), 2010 IEEE}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2010,
   pp. 706--710.
-
-\bibitem{Dirani2010}
-M.~Dirani and Z.~Altman, ``A cooperative reinforcement learning approach for
-  inter-cell interference coordination in ofdma cellular networks,'' in
-  \emph{Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks
-  (WiOpt), 2010 Proceedings of the 8th International Symposium on}.\hskip 1em
-  plus 0.5em minus 0.4em\relax IEEE, 2010, pp. 170--176.
 
 \bibitem{Mohamed2015}
 A.~Mohamed, O.~Onireti, S.~A. Hoseinitabatabaei, M.~Imran, A.~Imran, and
@@ -196,11 +294,6 @@ H.~Si, Y.~Wang, J.~Yuan, and X.~Shan, ``Mobility prediction in cellular network
   Conference (CCNC), 2010 7th IEEE}.\hskip 1em plus 0.5em minus 0.4em\relax
   IEEE, 2010, pp. 1--5.
 
-\bibitem{Shen2016}
-C.~Shen, C.~Tekin, and M.~van~der Schaar, ``A non-stochastic learning approach
-  to energy efficient mobility management,'' \emph{IEEE Journal on Selected
-  Areas in Communications}, vol.~34, no.~12, pp. 3854--3868, 2016.
-
 \bibitem{Mwanje2014}
 S.~S. Mwanje and A.~Mitschele-Thiel, ``Distributed cooperative q-learning for
   mobility-sensitive handover optimization in lte son,'' in \emph{Computers and
@@ -218,12 +311,6 @@ C.~Dhahri and T.~Ohtsuki, ``Cell selection for open-access femtocell networks:
   Learning in changing environment,'' \emph{Physical Communication}, vol.~13,
   pp. 42--52, 2014.
 
-\bibitem{Shen2017}
-C.~Shen and M.~van~der Schaar, ``A learning approach to frequent handover
-  mitigations in 3gpp mobility protocols,'' in \emph{Wireless Communications
-  and Networking Conference (WCNC), 2017 IEEE}.\hskip 1em plus 0.5em minus
-  0.4em\relax IEEE, 2017, pp. 1--6.
-
 \bibitem{Kudo2014}
 T.~Kudo and T.~Ohtsuki, ``Q-learning based cell selection for ue outage
   reduction in heterogeneous networks,'' in \emph{Vehicular Technology
@@ -235,11 +322,6 @@ P.~Munoz, R.~Barco, I.~de~la Bandera, M.~Toril, and S.~Luna-Ramirez,
   ``Optimization of a fuzzy logic controller for handover-based load
   balancing,'' in \emph{Vehicular technology conference (VTC Spring), 2011 IEEE
   73rd}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2011, pp. 1--5.
-
-\bibitem{Munoz2013}
-P.~M. {n}oz, R.~Barco, J.~M. Ruiz-Avil\'{e}s, I.~de~la Bandera, and A.~Aguilar,
-  ``{Fuzzy rule-based reinforcement learning for load balancing techniques in
-  enterprise LTE femtocells},'' vol.~62, no.~5, p. 962�C1973, Jun. 2013.
 
 \bibitem{Barco2012}
 R.~Barco, P.~Lazaro, and P.~Munoz, ``A unified framework for self-healing in

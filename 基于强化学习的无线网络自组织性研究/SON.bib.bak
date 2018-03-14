@@ -271,17 +271,6 @@
   year      = {2017},
   month     = may,
 }
-%UE cell association in HetNets based on individual user behavior characteristics with aim to maximize long-term expected
-%system throughput. model the problem as a stochastic optimization model Restless Multi-Armed Bandit
-
-@InProceedings{Simsek2015a,
-  author    = {M. Simsek and M. Bennis and I. Guvenc},
-  title     = {Context-aware mobility management in {HetNets}: A reinforcement learning approach},
-  booktitle = {IEEE WCNC},
-  year      = {2015},
-  pages     = {1536�C1541},
-  month     = mar,
-}
 % mobility management - stochastic MAB UCB based
 
 @Article{Munoz2013,
@@ -871,13 +860,12 @@
 }
 
 @InProceedings{Munoz2011,
-  author        = {Munoz, P and Barco, R and de la Bandera, Isabel and Toril, Mat{\'\i}as and Luna-Ramirez, Salvador},
-  title         = {Optimization of a fuzzy logic controller for handover-based load balancing},
-  booktitle     = {Vehicular technology conference (VTC Spring), 2011 IEEE 73rd},
-  year          = {2011},
-  pages         = {1--5},
-  organization  = {IEEE},
-  __markedentry = {[Administrator:]},
+  author       = {Munoz, P and Barco, R and de la Bandera, Isabel and Toril, Mat{\'\i}as and Luna-Ramirez, Salvador},
+  title        = {Optimization of a fuzzy logic controller for handover-based load balancing},
+  booktitle    = {Vehicular technology conference (VTC Spring), 2011 IEEE 73rd},
+  year         = {2011},
+  pages        = {1--5},
+  organization = {IEEE},
 }
 
 @InProceedings{Farooq2015,
@@ -887,7 +875,185 @@
   year          = {2015},
   pages         = {1--6},
   organization  = {IEEE},
+  __markedentry = {[Administrator:]},
+}
+
+@Article{Alias2016,
+  author        = {Alias, Multazamah and Saxena, Navrati and Roy, Abhishek},
+  title         = {Efficient cell outage detection in 5G HetNets using hidden Markov model},
+  journal       = {IEEE Communications Letters},
+  year          = {2016},
+  volume        = {20},
+  number        = {3},
+  pages         = {562--565},
   __markedentry = {[Administrator:6]},
+  publisher     = {IEEE},
+}
+
+@Article{Kaelbling1996,
+  author        = {Kaelbling, Leslie Pack and Littman, Michael L and Moore, Andrew W},
+  title         = {Reinforcement learning: A survey},
+  journal       = {Journal of artificial intelligence research},
+  year          = {1996},
+  volume        = {4},
+  pages         = {237--285},
+  __markedentry = {[Administrator:6]},
+}
+
+@Article{Agrawal1988,
+  author    = {Agrawal, Rajeev and Hedge, MV and Teneketzis, Demosthenis},
+  title     = {Asymptotically efficient adaptive allocation rules for the multiarmed bandit problem with switching cost},
+  journal   = {IEEE Transactions on Automatic Control},
+  year      = {1988},
+  volume    = {33},
+  number    = {10},
+  pages     = {899--906},
+  publisher = {IEEE},
+}
+
+@InProceedings{Agrawal2012,
+  author    = {Shipra Agrawal and Navin Goyal},
+  title     = {Analysis of Thompson Sampling for the Multi-armed Bandit Problem},
+  booktitle = {Proceedings of the 25th Annual Conference on Learning Theory},
+  year      = {2012},
+  volume    = {23},
+  pages     = {39.1--39.26},
+  publisher = {PMLR},
+}
+
+@Article{Arora2012,
+  author  = {Arora, Raman and Dekel, Ofer and Tewari, Ambuj},
+  title   = {Online Bandit Learning against an Adaptive Adversary: from Regret to Policy Regret},
+  journal = {Computer Science},
+  year    = {2012},
+  volume  = {2},
+}
+
+@Article{Auer2002,
+  author  = {Auer, Peter and Cesa-Bianchi, Nicolò and Freund, Yoav and Schapire, Robert E},
+  title   = {The Non-Stochastic Multi-Armed Bandit Problem},
+  journal = {Siam Journal on Computing},
+  year    = {2002},
+  volume  = {32},
+  number  = {1},
+  pages   = {48-77},
+}
+
+@Article{Auer2002a,
+  author  = {Auer, Peter and Cesa-Bianchi, Nicol\'{o} and Fischer, Paul},
+  title   = {Finite-time Analysis of the Multiarmed Bandit Problem},
+  journal = {Machine Learning},
+  year    = {2002},
+  volume  = {47},
+  number  = {2},
+  pages   = {235-256},
+}
+
+@Article{Bubeck2012,
+  author  = {Bubeck, Sebastien and Cesabianchi, Nicolò},
+  title   = {Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems},
+  journal = {Foundations \& Trends in Machine Learning},
+  year    = {2012},
+  volume  = {5},
+  number  = {1},
+}
+
+@Article{Garivier2008,
+  author  = {Garivier, Aurélien and Moulines, Eric},
+  title   = {On Upper-Confidence Bound Policies for Non-Stationary Bandit Problems},
+  journal = {Mathematics},
+  year    = {2008},
+  pages   = {174-188},
+}
+
+@InProceedings{Glorennec1997,
+  author    = {P. Y. Glorennec and L. Jouffe},
+  title     = {Fuzzy Q-learning},
+  booktitle = {Proceedings of 6th International Fuzzy Systems Conference},
+  year      = {1997},
+  volume    = {2},
+  pages     = {659-662},
+  month     = {Jul},
+}
+
+@Article{Hartland2006,
+  author  = {Hartland, Cédric and Gelly, Sylvain and Baskiotis, Nicolas and Teytaud, Olivier and Sebag, Michèle},
+  title   = {Multi-Armed Bandit, Dynamic Environments and Meta-Bandits},
+  journal = {Online Trading of Exploration \& Exploitation Workshop Nips},
+  year    = {2006},
+}
+
+@InProceedings{Kaufmann2012,
+  author    = {Emilie Kaufmann and Nathaniel Korda and R{\'e}mi Munos},
+  title     = {Thompson Sampling: An Asymptotically Optimal Finite-Time Analysis},
+  booktitle = {Algorithmic Learning Theory},
+  year      = {2012},
+  pages     = {199--213},
+  publisher = {Springer Berlin Heidelberg},
+}
+
+@InProceedings{Kaufmann2012a,
+  author    = {Emilie Kaufmann and Olivier Cappe and Aurelien Garivier},
+  title     = {On Bayesian Upper Confidence Bounds for Bandit Problems},
+  booktitle = {Proceedings of the Fifteenth International Conference on Artificial Intelligence and Statistics},
+  year      = {2012},
+  volume    = {22},
+  pages     = {592--600},
+  publisher = {PMLR},
+}
+
+@Article{Lai1985,
+  author  = {Lai, T. L and Robbins, Herbert},
+  title   = {Asymptotically efficient adaptive allocation rules},
+  journal = {Advances in Applied Mathematics},
+  year    = {1985},
+  volume  = {6},
+  number  = {1},
+  pages   = {4-22},
+}
+
+@Book{Sutton1998,
+  title         = {Reinforcement learning: An introduction},
+  publisher     = {MIT press Cambridge},
+  year          = {1998},
+  author        = {Sutton, Richard S and Barto, Andrew G},
+  volume        = {1},
+  number        = {1},
+  __markedentry = {[Administrator:]},
+}
+
+@Book{Sutton2016,
+  title     = {{R}einforcement learning: {A}n introduction second edition},
+  publisher = {The MIT Press},
+  year      = {2016},
+  author    = {Sutton, Richard S and Barto, Andrew G},
+  address   = {Massachusetts,US},
+  month     = {Sep},
+}
+
+@Article{Szepesvari2013,
+  author  = {Szepesvari, Csaba},
+  title   = {Online learning under delayed feedback},
+  journal = {Computer Science},
+  year    = {2013},
+  pages   = {1453-1461},
+}
+
+@InProceedings{Vakili2015,
+  author    = {Vakili, S and Zhao, Qing and Zhou, Yuan},
+  title     = {Time-varying stochastic multi-armed bandit problems},
+  booktitle = {Signals, Systems and Computers, 2014 Asilomar Conference on},
+  year      = {2015},
+  pages     = {2103-2107},
+}
+
+@InProceedings{Simsek2015a,
+  author    = {M. Simsek and M. Bennis and I. Guvenc},
+  title     = {Context-aware mobility management in {HetNets}: A reinforcement learning approach},
+  booktitle = {IEEE WCNC},
+  year      = {2015},
+  pages     = {1536�C1541},
+  month     = mar,
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
