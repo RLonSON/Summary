@@ -733,21 +733,159 @@
 }
 
 @InProceedings{Sanneck2010,
-  author        = {Sanneck, Henning and Bouwen, Yves and Troch, Eddy},
-  title         = {Context based configuration management of plug \& play LTE base stations},
-  booktitle     = {Network Operations and Management Symposium (NOMS), 2010 IEEE},
-  year          = {2010},
-  pages         = {946--949},
+  author       = {Sanneck, Henning and Bouwen, Yves and Troch, Eddy},
+  title        = {Context based configuration management of plug \& play LTE base stations},
+  booktitle    = {Network Operations and Management Symposium (NOMS), 2010 IEEE},
+  year         = {2010},
+  pages        = {946--949},
+  organization = {IEEE},
+}
+
+@InProceedings{Razavi2010a,
+  author       = {Razavi, Rouzbeh and Klein, Siegfried and Claussen, Holger},
+  title        = {Self-optimization of capacity and coverage in LTE networks using a fuzzy reinforcement learning approach},
+  booktitle    = {Personal Indoor and Mobile Radio Communications (PIMRC), 2010 IEEE 21st International Symposium on},
+  year         = {2010},
+  pages        = {1865--1870},
+  organization = {IEEE},
+}
+
+@Article{Peng2013,
+  author    = {Peng, Mugen and Liang, Dong and Wei, Yao and Li, Jian and Chen, Hsiao-Hwa},
+  title     = {Self-configuration and self-optimization in LTE-advanced heterogeneous networks},
+  journal   = {IEEE Communications Magazine},
+  year      = {2013},
+  volume    = {51},
+  number    = {5},
+  pages     = {36--45},
+  publisher = {IEEE},
+}
+
+@InProceedings{Shen2017,
+  author       = {Shen, Cong and van der Schaar, Mihaela},
+  title        = {A learning approach to frequent handover mitigations in 3GPP mobility protocols},
+  booktitle    = {Wireless Communications and Networking Conference (WCNC), 2017 IEEE},
+  year         = {2017},
+  pages        = {1--6},
+  organization = {IEEE},
+}
+
+@Article{Shen2018,
+  author    = {Shen, Cong and Zhou, Ruida and Tekin, Cem and van der Schaar, Mihaela},
+  title     = {Generalized Global Bandit and Its Application in Cellular Coverage Optimization},
+  journal   = {IEEE Journal of Selected Topics in Signal Processing},
+  year      = {2018},
+  publisher = {IEEE},
+}
+
+@InProceedings{Bennis2010,
+  author       = {Bennis, Mehdi and Niyato, Dusit},
+  title        = {A Q-learning based approach to interference avoidance in self-organized femtocell networks},
+  booktitle    = {GLOBECOM Workshops (GC Wkshps), 2010 IEEE},
+  year         = {2010},
+  pages        = {706--710},
+  organization = {IEEE},
+}
+
+@InProceedings{ElBamby2014,
+  author       = {ElBamby, Mohammed S and Bennis, Mehdi and Saad, Walid and Latva-Aho, Matti},
+  title        = {Content-aware user clustering and caching in wireless small cell networks},
+  booktitle    = {Wireless Communications Systems (ISWCS), 2014 11th International Symposium on},
+  year         = {2014},
+  pages        = {945--949},
+  organization = {IEEE},
+}
+
+@InProceedings{Mwanje2013,
+  author       = {Mwanje, Stephen S and Mitschele-Thiel, Andreas},
+  title        = {A q-learning strategy for lte mobility load balancing},
+  booktitle    = {Personal Indoor and Mobile Radio Communications (PIMRC), 2013 IEEE 24th International Symposium on},
+  year         = {2013},
+  pages        = {2154--2158},
+  organization = {IEEE},
+}
+
+@InProceedings{Kudo2014,
+  author       = {Kudo, Toshihito and Ohtsuki, Tomoaki},
+  title        = {Q-learning based cell selection for UE outage reduction in heterogeneous networks},
+  booktitle    = {Vehicular Technology Conference (VTC Fall), 2014 IEEE 80th},
+  year         = {2014},
+  pages        = {1--5},
+  organization = {IEEE},
+}
+
+@Article{Barco2012,
+  author    = {Barco, Raquel and Lazaro, Pedro and Munoz, Pablo},
+  title     = {A unified framework for self-healing in wireless networks},
+  journal   = {IEEE Communications Magazine},
+  year      = {2012},
+  volume    = {50},
+  number    = {12},
+  publisher = {IEEE},
+}
+
+@InProceedings{Mohamed2015,
+  author       = {Mohamed, Abdelrahim and Onireti, Oluwakayode and Hoseinitabatabaei, Seyed Amir and Imran, Muhammad and Imran, Ali and Tafazolli, Rahim},
+  title        = {Mobility prediction for handover management in cellular networks with control/data separation},
+  booktitle    = {Communications (ICC), 2015 IEEE International Conference on},
+  year         = {2015},
+  pages        = {3939--3944},
+  organization = {IEEE},
+}
+
+@InProceedings{Si2010,
+  author       = {Si, Hongbo and Wang, Yue and Yuan, Jian and Shan, Xiuming},
+  title        = {Mobility prediction in cellular network using hidden markov model},
+  booktitle    = {Consumer Communications and Networking Conference (CCNC), 2010 7th IEEE},
+  year         = {2010},
+  pages        = {1--5},
+  organization = {IEEE},
+}
+
+@InProceedings{Fazio2013,
+  author       = {Fazio, Peppino and Tropea, Mauro and Marano, Salvatore},
+  title        = {A distributed hand-over management and pattern prediction algorithm for wireless networks With mobile hosts},
+  booktitle    = {Wireless Communications and Mobile Computing Conference (IWCMC), 2013 9th International},
+  year         = {2013},
+  pages        = {294--298},
+  organization = {IEEE},
+}
+
+@InProceedings{Mwanje2014,
+  author       = {Mwanje, Stephen S and Mitschele-Thiel, Andreas},
+  title        = {Distributed cooperative Q-learning for mobility-sensitive handover optimization in LTE SON},
+  booktitle    = {Computers and Communication (ISCC), 2014 IEEE Symposium on},
+  year         = {2014},
+  pages        = {1--6},
+  organization = {IEEE},
+}
+
+@Article{Dhahri2014,
+  author    = {Dhahri, Chaima and Ohtsuki, Tomoaki},
+  title     = {Cell selection for open-access femtocell networks: Learning in changing environment},
+  journal   = {Physical Communication},
+  year      = {2014},
+  volume    = {13},
+  pages     = {42--52},
+  publisher = {Elsevier},
+}
+
+@InProceedings{Munoz2011,
+  author        = {Munoz, P and Barco, R and de la Bandera, Isabel and Toril, Mat{\'\i}as and Luna-Ramirez, Salvador},
+  title         = {Optimization of a fuzzy logic controller for handover-based load balancing},
+  booktitle     = {Vehicular technology conference (VTC Spring), 2011 IEEE 73rd},
+  year          = {2011},
+  pages         = {1--5},
   organization  = {IEEE},
   __markedentry = {[Administrator:]},
 }
 
-@InProceedings{Razavi2010a,
-  author        = {Razavi, Rouzbeh and Klein, Siegfried and Claussen, Holger},
-  title         = {Self-optimization of capacity and coverage in LTE networks using a fuzzy reinforcement learning approach},
-  booktitle     = {Personal Indoor and Mobile Radio Communications (PIMRC), 2010 IEEE 21st International Symposium on},
-  year          = {2010},
-  pages         = {1865--1870},
+@InProceedings{Farooq2015,
+  author        = {Farooq, Hasan and Parwez, Md Salik and Imran, Ali},
+  title         = {Continuous time markov chain based reliability analysis for future cellular networks},
+  booktitle     = {Global Communications Conference (GLOBECOM), 2015 IEEE},
+  year          = {2015},
+  pages         = {1--6},
   organization  = {IEEE},
   __markedentry = {[Administrator:6]},
 }

@@ -142,4 +142,125 @@ M.~Jaber, M.~A. Imran, R.~Tafazolli, and A.~Tukmanov, ``A distributed son-based
   distributed son,'' in \emph{Global Communications Conference (GLOBECOM), 2016
   IEEE}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2016, pp. 1--6.
 
+\bibitem{Zheng2016}
+K.~Zheng, Z.~Yang, K.~Zhang, P.~Chatzimisios, K.~Yang, and W.~Xiang, ``Big
+  data-driven optimization for mobile networks toward 5g,'' \emph{IEEE
+  network}, vol.~30, no.~1, pp. 44--51, 2016.
+
+\bibitem{ElBamby2014}
+M.~S. ElBamby, M.~Bennis, W.~Saad, and M.~Latva-Aho, ``Content-aware user
+  clustering and caching in wireless small cell networks,'' in \emph{Wireless
+  Communications Systems (ISWCS), 2014 11th International Symposium on}.\hskip
+  1em plus 0.5em minus 0.4em\relax IEEE, 2014, pp. 945--949.
+
+\bibitem{Wang2017}
+Z.~Wang and C.~Shen, ``Small cell transmit power assignment based on correlated
+  bandit learning,'' \emph{IEEE Journal on Selected Areas in Communications},
+  vol.~35, no.~5, pp. 1030--1045, 2017.
+
+\bibitem{Shen2018}
+C.~Shen, R.~Zhou, C.~Tekin, and M.~van~der Schaar, ``Generalized global bandit
+  and its application in cellular coverage optimization,'' \emph{IEEE Journal
+  of Selected Topics in Signal Processing}, 2018.
+
+\bibitem{Bennis2010}
+M.~Bennis and D.~Niyato, ``A q-learning based approach to interference
+  avoidance in self-organized femtocell networks,'' in \emph{GLOBECOM Workshops
+  (GC Wkshps), 2010 IEEE}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2010,
+  pp. 706--710.
+
+\bibitem{Dirani2010}
+M.~Dirani and Z.~Altman, ``A cooperative reinforcement learning approach for
+  inter-cell interference coordination in ofdma cellular networks,'' in
+  \emph{Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks
+  (WiOpt), 2010 Proceedings of the 8th International Symposium on}.\hskip 1em
+  plus 0.5em minus 0.4em\relax IEEE, 2010, pp. 170--176.
+
+\bibitem{Mohamed2015}
+A.~Mohamed, O.~Onireti, S.~A. Hoseinitabatabaei, M.~Imran, A.~Imran, and
+  R.~Tafazolli, ``Mobility prediction for handover management in cellular
+  networks with control/data separation,'' in \emph{Communications (ICC), 2015
+  IEEE International Conference on}.\hskip 1em plus 0.5em minus 0.4em\relax
+  IEEE, 2015, pp. 3939--3944.
+
+\bibitem{Fazio2013}
+P.~Fazio, M.~Tropea, and S.~Marano, ``A distributed hand-over management and
+  pattern prediction algorithm for wireless networks with mobile hosts,'' in
+  \emph{Wireless Communications and Mobile Computing Conference (IWCMC), 2013
+  9th International}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2013, pp.
+  294--298.
+
+\bibitem{Si2010}
+H.~Si, Y.~Wang, J.~Yuan, and X.~Shan, ``Mobility prediction in cellular network
+  using hidden markov model,'' in \emph{Consumer Communications and Networking
+  Conference (CCNC), 2010 7th IEEE}.\hskip 1em plus 0.5em minus 0.4em\relax
+  IEEE, 2010, pp. 1--5.
+
+\bibitem{Shen2016}
+C.~Shen, C.~Tekin, and M.~van~der Schaar, ``A non-stochastic learning approach
+  to energy efficient mobility management,'' \emph{IEEE Journal on Selected
+  Areas in Communications}, vol.~34, no.~12, pp. 3854--3868, 2016.
+
+\bibitem{Mwanje2014}
+S.~S. Mwanje and A.~Mitschele-Thiel, ``Distributed cooperative q-learning for
+  mobility-sensitive handover optimization in lte son,'' in \emph{Computers and
+  Communication (ISCC), 2014 IEEE Symposium on}.\hskip 1em plus 0.5em minus
+  0.4em\relax IEEE, 2014, pp. 1--6.
+
+\bibitem{Mwanje2013}
+------, ``A q-learning strategy for lte mobility load balancing,'' in
+  \emph{Personal Indoor and Mobile Radio Communications (PIMRC), 2013 IEEE 24th
+  International Symposium on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE,
+  2013, pp. 2154--2158.
+
+\bibitem{Dhahri2014}
+C.~Dhahri and T.~Ohtsuki, ``Cell selection for open-access femtocell networks:
+  Learning in changing environment,'' \emph{Physical Communication}, vol.~13,
+  pp. 42--52, 2014.
+
+\bibitem{Shen2017}
+C.~Shen and M.~van~der Schaar, ``A learning approach to frequent handover
+  mitigations in 3gpp mobility protocols,'' in \emph{Wireless Communications
+  and Networking Conference (WCNC), 2017 IEEE}.\hskip 1em plus 0.5em minus
+  0.4em\relax IEEE, 2017, pp. 1--6.
+
+\bibitem{Kudo2014}
+T.~Kudo and T.~Ohtsuki, ``Q-learning based cell selection for ue outage
+  reduction in heterogeneous networks,'' in \emph{Vehicular Technology
+  Conference (VTC Fall), 2014 IEEE 80th}.\hskip 1em plus 0.5em minus
+  0.4em\relax IEEE, 2014, pp. 1--5.
+
+\bibitem{Munoz2011}
+P.~Munoz, R.~Barco, I.~de~la Bandera, M.~Toril, and S.~Luna-Ramirez,
+  ``Optimization of a fuzzy logic controller for handover-based load
+  balancing,'' in \emph{Vehicular technology conference (VTC Spring), 2011 IEEE
+  73rd}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2011, pp. 1--5.
+
+\bibitem{Munoz2013}
+P.~M. {n}oz, R.~Barco, J.~M. Ruiz-Avil\'{e}s, I.~de~la Bandera, and A.~Aguilar,
+  ``{Fuzzy rule-based reinforcement learning for load balancing techniques in
+  enterprise LTE femtocells},'' vol.~62, no.~5, p. 962�C1973, Jun. 2013.
+
+\bibitem{Barco2012}
+R.~Barco, P.~Lazaro, and P.~Munoz, ``A unified framework for self-healing in
+  wireless networks,'' \emph{IEEE Communications Magazine}, vol.~50, no.~12,
+  2012.
+
+\bibitem{Farooq2015}
+H.~Farooq, M.~S. Parwez, and A.~Imran, ``Continuous time markov chain based
+  reliability analysis for future cellular networks,'' in \emph{Global
+  Communications Conference (GLOBECOM), 2015 IEEE}.\hskip 1em plus 0.5em minus
+  0.4em\relax IEEE, 2015, pp. 1--6.
+
+\bibitem{Zoha2016}
+A.~Zoha, A.~Saeed, A.~Imran, M.~A. Imran, and A.~Abu-Dayya, ``A learning-based
+  approach for autonomous outage detection and coverage optimization,''
+  \emph{Transactions on Emerging Telecommunications Technologies}, vol.~27,
+  no.~3, pp. 439--450, 2016.
+
+\bibitem{Alias2016}
+M.~Alias, N.~Saxena, and A.~Roy, ``Efficient cell outage detection in 5g
+  hetnets using hidden markov model,'' \emph{IEEE Communications Letters},
+  vol.~20, no.~3, pp. 562--565, 2016.
+
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.23)  7 MAR 2018 22:28
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.23)  12 MAR 2018 23:23
 entering extended mode
 **基于强化学习的无线网络自组织性研究.tex
 (F:\05科大学报\Summary\基于强化学习的无线网络自组织性研究\
@@ -919,26 +919,25 @@ Requested font "cmr7" at 7.69997pt
  -> cmr7
 Requested font "cmr5" at 5.5pt
  -> cmr5
-[1] [2] [3] [4] [5] [6]
+[1] [2] [3] [4] [5] [6] [7] [8] [9]
 (F:\05科大学报\Summary\基于强化学习的无线网络自组织性研究\
-基于强化学习的无线网络自组织性研究.bbl [7]) [8]
+基于强化学习的无线网络自组织性研究.bbl [10] [11]
+Missing character: There is no � in font [lmroman9-regular]:mapping=tex-text!
+) [12]
 (F:\05科大学报\Summary\基于强化学习的无线网络自组织性研究\
 基于强化学习的无线网络自组织性研究.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 15333 strings out of 430478
- 326095 string characters out of 3191151
- 335950 words of memory out of 3000000
- 18283 multiletter control sequences out of 15000+200000
+ 15348 strings out of 430478
+ 326205 string characters out of 3191151
+ 337036 words of memory out of 3000000
+ 18298 multiletter control sequences out of 15000+200000
  25724 words of font info for 109 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 57i,6n,36p,845b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,7n,36p,845b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on 基于强化学习的无线网络自组织性研究.pdf (8 pa
-ges).
+Output written on 基于强化学习的无线网络自组织性研究.pdf (12 p
+ages).
