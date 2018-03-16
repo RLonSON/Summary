@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.23)  14 MAR 2018 21:49
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.23)  16 MAR 2018 20:10
 entering extended mode
 **基于强化学习的无线网络自组织性研究.tex
 (F:\05科大学报\Summary\基于强化学习的无线网络自组织性研究\
@@ -938,33 +938,33 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 
-] [2] [3] [4] [5]
+] [2]
+Underfull \vbox (badness 1178) has occurred while \output is active []
+
+ [3]
+[4] [5]
 Underfull \vbox (badness 3503) has occurred while \output is active []
 
  [6]
-[7] [8] (F:\05科大学报\Summary\基于强化学习的无线网络自组织�
-�研究\基于强化学习的无线网络自组织性研究.bbl
+[7] [8] [9] (F:\05科大学报\Summary\基于强化学习的无线网络自组�
+��性研究\基于强化学习的无线网络自组织性研究.bbl [10]
 Missing character: There is no � in font [lmroman8-regular]:mapping=tex-text!
- [9]
 Missing character: There is no � in font [lmroman8-regular]:mapping=tex-text!
- [10])
-[11] (F:\05科大学报\Summary\基于强化学习的无线网络自组织性�
-�究\基于强化学习的无线网络自组织性研究.aux)
+
+[11]) [12] (F:\05科大学报\Summary\基于强化学习的无线网络自组�
+�性研究\基于强化学习的无线网络自组织性研究.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 15387 strings out of 430478
- 326845 string characters out of 3191151
- 348867 words of memory out of 3000000
- 18328 multiletter control sequences out of 15000+200000
+ 15391 strings out of 430478
+ 326893 string characters out of 3191151
+ 348887 words of memory out of 3000000
+ 18332 multiletter control sequences out of 15000+200000
  25150 words of font info for 109 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  57i,7n,37p,845b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on 基于强化学习的无线网络自组织性研究.pdf (11 p
+Output written on 基于强化学习的无线网络自组织性研究.pdf (12 p
 ages).

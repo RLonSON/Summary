@@ -1056,4 +1056,20 @@
   month     = mar,
 }
 
+@Article{Dhahri2012,
+  author   = {Dhahri, Slim and Sellami, Anis and Hmida, Fay{\c{c}}al Ben},
+  title    = {Robust H ∞ sliding mode observer design for fault estimation in a class of uncertain nonlinear systems with LMI optimization approach},
+  journal  = {International Journal of Control, Automation and Systems},
+  year     = {2012},
+  volume   = {10},
+  number   = {5},
+  pages    = {1032--1041},
+  month    = {Oct},
+  issn     = {2005-4092},
+  abstract = {This paper presents a new approach for the design of robust H                ∞ sliding mode observer (SMO) for a class of Lipschitz nonlinear systems where both faults and uncertainties are considered. A sufficient condition using linear matrix inequality (LMI) optimization is derived to guarantee the asymptotically stability of the estimation error dynamics and compute the observer gains. A fault estimation scheme is presented where the estimation signal can approximate the fault to some degree of accuracy. Our design approach has some advantages. The Lipschitz constant of the nonlinear term in the system and the disturbance attenuation level are maximized simultaneously through convex multiobjective optimization. For this reason, the Lipschitz constant is suitable to a large class of uncertain nonlinear systems. Moreover, the fault estimation is much more robust against disturbances and nonlinear uncertainty and can preserve the fault signal shape effectively. Finally, a simulation study on a robotic arm system is presented to show the effectiveness of this approach.},
+  day      = {01},
+  doi      = {10.1007/s12555-012-0521-3},
+  url      = {https://doi.org/10.1007/s12555-012-0521-3},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

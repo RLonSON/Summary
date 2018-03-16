@@ -150,11 +150,14 @@ M.~Dirani and Z.~Altman, ``A cooperative reinforcement learning approach for
   (WiOpt), 2010 Proceedings of the 8th International Symposium on}.\hskip 1em
   plus 0.5em minus 0.4em\relax IEEE, 2010, pp. 170--176.
 
-\bibitem{Klaine2017}
-P.~V. Klaine, M.~A. Imran, O.~Onireti, and R.~D. Souza, ``A survey of machine
-  learning techniques applied to self-organizing cellular networks,''
-  \emph{IEEE Communications Surveys \& Tutorials}, vol.~19, no.~4, pp.
-  2392--2431, 2017.
+\bibitem{Moysen2017}
+J.~Moysen and L.~Giupponi, ``From 4g to 5g: Self-organized network management
+  meets machine learning,'' 2017.
+
+\bibitem{Imran2014}
+A.~Imran, A.~Zoha, and A.~Abu-Dayya, ``Challenges in 5g: how to empower son
+  with big data for enabling 5g,'' \emph{IEEE Network}, vol.~28, no.~6, pp.
+  27--33, 2014.
 
 \bibitem{Aliu2013}
 O.~G. Aliu, A.~Imran, M.~A. Imran, and B.~Evans, ``A survey of self
@@ -344,5 +347,16 @@ A.~Zoha, A.~Saeed, A.~Imran, M.~A. Imran, and A.~Abu-Dayya, ``A learning-based
 M.~Alias, N.~Saxena, and A.~Roy, ``Efficient cell outage detection in 5g
   hetnets using hidden markov model,'' \emph{IEEE Communications Letters},
   vol.~20, no.~3, pp. 562--565, 2016.
+
+\bibitem{Kim2014}
+J.~Kim, P.-Y. Kong, N.-O. Song, J.-K.~K. Rhee, and S.~Al-Araji, ``{MDP} based
+  dynamic base station management for power conservation in self-organizing
+  networks,'' in \emph{IEEE WCNC}, Apr. 2014, pp. 2384--2389.
+
+\bibitem{Simsek2011}
+M.~Simsek, A.~Czylwik, A.~Galindo-Serrano, and L.~Giupponi, ``Improved
+  decentralized q-learning algorithm for interference reduction in
+  lte-femtocells,'' in \emph{Wireless Advanced (WiAd), 2011}.\hskip 1em plus
+  0.5em minus 0.4em\relax IEEE, 2011, pp. 138--143.
 
 \end{thebibliography}
