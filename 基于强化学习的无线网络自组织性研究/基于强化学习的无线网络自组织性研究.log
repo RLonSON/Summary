@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.23)  16 MAR 2018 20:10
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2017.11.23)  18 MAR 2018 22:56
 entering extended mode
 **基于强化学习的无线网络自组织性研究.tex
 (F:\05科大学报\Summary\基于强化学习的无线网络自组织性研究\
@@ -916,33 +916,17 @@ t 10.0pt
  -> C:/WINDOWS/Fonts/SIMKAI.TTF
 File: reinforcement.pdf Graphic file (type QTm)
 <use  "reinforcement.pdf" >
-Requested font "SimSun" at 8.0pt
- -> C:/Windows/Fonts/simsun.ttc
-Requested font "SimSun/ICU" at 8.0pt
- -> C:/Windows/Fonts/simsun.ttc
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'SimSun(0)' created for font 'SimSun' with options
-. [Ligatures=TeX,BoldFont={SimHei},ItalicFont={[SIMKAI.TTF]}].
-. 
-. This font family consists of the following shapes:
-.................................................
-Requested font "SimSun/ICU:script=latn;language=DFLT;mapping=tex-text;" at 8.0p
-t
- -> C:/Windows/Fonts/simsun.ttc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 46.
+(Font)              <7> on input line 47.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 46.
+(Font)              <5> on input line 47.
  [1
 
 
-] [2]
-Underfull \vbox (badness 1178) has occurred while \output is active []
+] [2] [3] [4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3]
-[4] [5]
+ [5]
 Underfull \vbox (badness 3503) has occurred while \output is active []
 
  [6]
@@ -956,13 +940,16 @@ Missing character: There is no � in font [lmroman8-regular]:mapping=tex-text!
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 15391 strings out of 430478
- 326893 string characters out of 3191151
- 348887 words of memory out of 3000000
- 18332 multiletter control sequences out of 15000+200000
- 25150 words of font info for 109 fonts, out of 3000000 for 9000
+ 15364 strings out of 430478
+ 326330 string characters out of 3191151
+ 346887 words of memory out of 3000000
+ 18308 multiletter control sequences out of 15000+200000
+ 25126 words of font info for 106 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  57i,7n,37p,845b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
 
