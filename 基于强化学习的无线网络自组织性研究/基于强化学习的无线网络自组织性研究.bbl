@@ -277,6 +277,10 @@ M.~Bennis and D.~Niyato, ``A q-learning based approach to interference
   (GC Wkshps), 2010 IEEE}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2010,
   pp. 706--710.
 
+\bibitem{Coucheney2015}
+P.~Coucheney, K.~Khawam, and J.~Cohen, ``Multi-armed bandit for distributed
+  inter-cell interference coordination.'' in \emph{ICC}, 2015, pp. 3323--3328.
+
 \bibitem{Mohamed2015}
 A.~Mohamed, O.~Onireti, S.~A. Hoseinitabatabaei, M.~Imran, A.~Imran, and
   R.~Tafazolli, ``Mobility prediction for handover management in cellular
