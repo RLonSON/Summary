@@ -266,6 +266,17 @@ M.~S. ElBamby, M.~Bennis, W.~Saad, and M.~Latva-Aho, ``Content-aware user
   Communications Systems (ISWCS), 2014 11th International Symposium on}.\hskip
   1em plus 0.5em minus 0.4em\relax IEEE, 2014, pp. 945--949.
 
+\bibitem{Song2017}
+J.~Song, M.~Sheng, T.~Q. Quek, C.~Xu, and X.~Wang, ``Learning-based content
+  caching and sharing for wireless networks,'' \emph{IEEE Transactions on
+  Communications}, vol.~65, no.~10, pp. 4309--4324, 2017.
+
+\bibitem{Blasco2014}
+P.~Blasco and D.~G{\"u}nd{\"u}z, ``Learning-based optimization of cache content
+  in a small cell base station,'' in \emph{Communications (ICC), 2014 IEEE
+  International Conference on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE,
+  2014, pp. 1897--1903.
+
 \bibitem{Shen2018}
 C.~Shen, R.~Zhou, C.~Tekin, and M.~van~der Schaar, ``Generalized global bandit
   and its application in cellular coverage optimization,'' \emph{IEEE Journal
