@@ -870,35 +870,32 @@
 }
 
 @InProceedings{Farooq2015,
-  author        = {Farooq, Hasan and Parwez, Md Salik and Imran, Ali},
-  title         = {Continuous time markov chain based reliability analysis for future cellular networks},
-  booktitle     = {Global Communications Conference (GLOBECOM), 2015 IEEE},
-  year          = {2015},
-  pages         = {1--6},
-  organization  = {IEEE},
-  __markedentry = {[Administrator:]},
+  author       = {Farooq, Hasan and Parwez, Md Salik and Imran, Ali},
+  title        = {Continuous time markov chain based reliability analysis for future cellular networks},
+  booktitle    = {Global Communications Conference (GLOBECOM), 2015 IEEE},
+  year         = {2015},
+  pages        = {1--6},
+  organization = {IEEE},
 }
 
 @Article{Alias2016,
-  author        = {Alias, Multazamah and Saxena, Navrati and Roy, Abhishek},
-  title         = {Efficient cell outage detection in 5G HetNets using hidden Markov model},
-  journal       = {IEEE Communications Letters},
-  year          = {2016},
-  volume        = {20},
-  number        = {3},
-  pages         = {562--565},
-  __markedentry = {[Administrator:6]},
-  publisher     = {IEEE},
+  author    = {Alias, Multazamah and Saxena, Navrati and Roy, Abhishek},
+  title     = {Efficient cell outage detection in 5G HetNets using hidden Markov model},
+  journal   = {IEEE Communications Letters},
+  year      = {2016},
+  volume    = {20},
+  number    = {3},
+  pages     = {562--565},
+  publisher = {IEEE},
 }
 
 @Article{Kaelbling1996,
-  author        = {Kaelbling, Leslie Pack and Littman, Michael L and Moore, Andrew W},
-  title         = {Reinforcement learning: A survey},
-  journal       = {Journal of artificial intelligence research},
-  year          = {1996},
-  volume        = {4},
-  pages         = {237--285},
-  __markedentry = {[Administrator:6]},
+  author  = {Kaelbling, Leslie Pack and Littman, Michael L and Moore, Andrew W},
+  title   = {Reinforcement learning: A survey},
+  journal = {Journal of artificial intelligence research},
+  year    = {1996},
+  volume  = {4},
+  pages   = {237--285},
 }
 
 @Article{Agrawal1988,
@@ -1014,13 +1011,12 @@
 }
 
 @Book{Sutton1998,
-  title         = {Reinforcement learning: An introduction},
-  publisher     = {MIT press Cambridge},
-  year          = {1998},
-  author        = {Sutton, Richard S and Barto, Andrew G},
-  volume        = {1},
-  number        = {1},
-  __markedentry = {[Administrator:]},
+  title     = {Reinforcement learning: An introduction},
+  publisher = {MIT press Cambridge},
+  year      = {1998},
+  author    = {Sutton, Richard S and Barto, Andrew G},
+  volume    = {1},
+  number    = {1},
 }
 
 @Book{Sutton2016,
@@ -1071,6 +1067,58 @@
   day      = {01},
   doi      = {10.1007/s12555-012-0521-3},
   url      = {https://doi.org/10.1007/s12555-012-0521-3},
+}
+
+@InProceedings{Coucheney2015,
+  author    = {Coucheney, Pierre and Khawam, Kinda and Cohen, Johanne},
+  title     = {Multi-Armed Bandit for distributed Inter-Cell Interference Coordination.},
+  booktitle = {ICC},
+  year      = {2015},
+  pages     = {3323--3328},
+}
+
+@Article{Bharath2016,
+  author    = {Bharath, BN and Nagananda, KG and Poor, H Vincent},
+  title     = {A learning-based approach to caching in heterogenous small cell networks},
+  journal   = {IEEE Transactions on Communications},
+  year      = {2016},
+  volume    = {64},
+  number    = {4},
+  pages     = {1674--1686},
+  publisher = {IEEE},
+}
+
+@InProceedings{Bharath2017,
+  author       = {Bharath, BN and Nagananda, KG and Guenduez, D and Poor, H Vincent},
+  title        = {Learning-Based Content Caching with Time-Varying Popularity Profiles},
+  booktitle    = {GLOBECOM 2017-2017 IEEE Global Communications Conference},
+  year         = {2017},
+  pages        = {1--6},
+  organization = {IEEE},
+}
+
+@InProceedings{Blasco2014,
+  author        = {Blasco, Pol and G{\"u}nd{\"u}z, Deniz},
+  title         = {Learning-based optimization of cache content in a small cell base station},
+  booktitle     = {Communications (ICC), 2014 IEEE International Conference on},
+  year          = {2014},
+  pages         = {1897--1903},
+  organization  = {IEEE},
+  __markedentry = {[Administrator:]},
+}
+
+@Article{Song2017,
+  author        = {Song, Jiongjiong and Sheng, Min and Quek, Tony QS and Xu, Chao and Wang, Xijun},
+  title         = {Learning-Based Content Caching and Sharing for Wireless Networks},
+  journal       = {IEEE Transactions on Communications},
+  year          = {2017},
+  volume        = {65},
+  number        = {10},
+  pages         = {4309--4324},
+  __markedentry = {[Administrator:6]},
+  abstract      = {A heterogenous network with base stations (BSs), small base stations (SBSs), and users distributed according to independent Poisson point processes is considered. SBS nodes are assumed to possess high storage capacity and to form a distributed caching network. Popular files are stored in local caches of SBSs, so that a user can download the desired files from one of the SBSs in its vicinity. The offloading-loss is captured via a cost function that depends on the random caching strategy proposed here. The popularity profile of cached content is unknown and estimated using instantaneous demands from users within a specified time interval. An estimate of the cost function is obtained from which an optimal random caching strategy is devised. The training time to achieve an ∈ > 0 difference between the achieved and optimal costs is finite provided the user density is greater than a predefined threshold, and scales as N2, where N is the support of the popularity profile. A transfer learning-based approach to improve this estimate is proposed. The training time is reduced when the popularity profile is modeled using a parametric family of distributions; the delay is independent of N and scales linearly with the dimension of the distribution parameter.
+},
+  publisher     = {IEEE},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
